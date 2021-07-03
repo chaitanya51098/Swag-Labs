@@ -1,0 +1,12 @@
+{
+    "logindetails":{
+        "validusername" : "standard_user",
+        "validpassword" : "secret_sauce"
+    },
+    "checkoutinfo":{
+        "firstname": "chaitanya",
+        "lastname" : "parimi",
+        "postalcode" : "500098"
+    }
+
+}
